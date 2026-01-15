@@ -1,0 +1,13 @@
+# Ignorar dados (Garante que o dataset não vá para o repo)
+data/
+*.parquet
+*.csv
+
+# Ignorar arquivos de sistema e cache Python
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.vscode/
+
+# Ignorar cache do KaggleHub
+/root/.cache/
