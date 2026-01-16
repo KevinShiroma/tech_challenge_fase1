@@ -83,9 +83,8 @@ Após a execução do Passo 2, a pasta `data/gold` estará populada com os dados
 3. No código, você verá células marcadas com `#%%`.
 4. Clique na opção **"Run Cell"** (ou "Executar Célula") que aparece logo acima de cada bloco de código.
 5. Os gráficos interativos aparecerão na janela lateral (*Interactive Window*).
-6. Copie os gráficos gerados e cole no seu relatório PDF.
 
 ---
 
-## ✒️ Autor
+## ✒️ Autor - Kevin Makoto Shiroma
 Projeto desenvolvido como parte da avaliação do **Tech Challenge - Fase 1**.
