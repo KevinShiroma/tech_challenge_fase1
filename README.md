@@ -2,6 +2,9 @@
 
 Este repositório contém o projeto da **Fase 1** do Tech Challenge (Pós-Tech Data Engineering). O objetivo é desenvolver um pipeline de dados *end-to-end* e um modelo de Machine Learning para auxiliar no diagnóstico de riscos à saúde mental, utilizando a arquitetura Medalhão.
 
+## Link Para youtube
+link https://youtu.be/lHG56KRjrpM
+
 ## 📋 Sobre o Projeto
 
 O sistema processa dados médicos para classificar se um paciente possui ou não risco de desenvolver condições de saúde mental. A solução foi adaptada de um ambiente Databricks para uma arquitetura local reprodutível utilizando Docker e Python.
